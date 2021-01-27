@@ -1,4 +1,4 @@
-# rbshoa
+# RBSHOA Website
 
 ## Project setup
 ```
